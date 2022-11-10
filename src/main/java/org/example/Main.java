@@ -6,6 +6,9 @@ public class Main {
         System.out.println("Practice Activity 1");
         String fname = "Rachelle";
         String lname = "Maconeghy";
+        int age = 31;
         System.out.println("My name is " + fname + " " + lname);
+        System.out.println("I am " + age);
+
     }
 }
